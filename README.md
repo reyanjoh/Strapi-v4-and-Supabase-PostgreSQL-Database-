@@ -1,4 +1,4 @@
-[...](https://strapi-v4-and-supabase-postgresql.onrender.com/admin/)
+### `login`(https://strapi-v4-and-supabase-postgresql.onrender.com/admin/)
 
 # 🚀 Getting started with Strapi
 
